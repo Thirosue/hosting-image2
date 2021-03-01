@@ -1,0 +1,19 @@
+{
+    "data": [
+      {
+        "id": "demo",
+        "first_name": "john",
+        "last_name": "doe",
+        "email": "sample@exsample.com",
+        "tel": "09012345678",
+        "cookie": "03317c91-9008-4547-bbd4-e63464c43cca",
+        "roles": [
+          "system_admin"
+        ],
+        "permission_key_list": [
+          ".*"
+        ]
+      }
+    ],
+    "message": "正常終了"
+  }
