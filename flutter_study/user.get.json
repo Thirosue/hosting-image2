@@ -30,7 +30,7 @@
             "name": "John Doe5",
             "email": "john.doe5@host.com",
             "tel": "555-555-8377"
-        }
+        },
         {
             "id": 6,
             "name": "John Doe6",
@@ -66,7 +66,7 @@
             "name": "John Doe11",
             "email": "john.doe11@host.com",
             "tel": "111-111-8377"
-        }
+        },
         {
             "id": 12,
             "name": "John Doe12",
@@ -96,7 +96,7 @@
             "name": "John Doe16",
             "email": "john.doe16@host.com",
             "tel": "666-666-8377"
-        }
+        },
         {
             "id": 17,
             "name": "John Doe17",
